@@ -1,43 +1,19 @@
-# Phase 1 Project
+# Microsoft Movie Analysis
 
-You've made it all the way through the first phase of this course - take a minute to celebrate your awesomeness!
+Author: Hogan Byun
 
-![awesome](https://raw.githubusercontent.com/learn-co-curriculum/dsc-phase-1-project/master/awesome.gif)
-
-Now you will put your new skills to use with a large end-of-Phase project! This project should take 20 to 30 hours to complete.
 
 ## Project Overview
 
-For this project, you will use exploratory data analysis to generate insights for a business stakeholder.
+This project analyizes movie databases in order to assist a potential, new movie studio in making decisions. Data analysis shows that, depending on specific goals, Microsoft should aim to create either an action, adventure, drama, or comedy movie. Further details, such as budget and release time, provide more flexibility. Microsoft can use these options to choose the best choices that fit their needs and constraints.
 
 ### Business Problem
 
-Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. You are charged with exploring what types of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
+Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. Exploring what types of films are currently doing the best at the box office will be able to translate into actionable insights that the head of Microsoft's new movie studio can use to help decide what type of films to create.
 
 ### The Data
 
-In the folder `zippedData` are movie datasets from:
-
-* Box Office Mojo
-* IMDB
-* Rotten Tomatoes
-* TheMovieDB.org
-
-It is up to you to decide what data from this to use and how to use it. If you want to make this more challenging, you can scrape websites or make API calls to get additional data. If you are feeling overwhelmed or behind (e.g. struggled with the Phase 1 Code Challenge), we recommend you use only the following data files:
-
-* imdb.title.basics
-* imdb.title.ratings
-* bom.movie_gross
-
-## Deliverables
-
-There are three deliverables for this project:
-
-* A **GitHub repository**
-* A **Jupyter Notebook**
-* A **non-technical presentation**
-
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic for instructions on creating and submitting your deliverables. Refer to the rubric associated with this assignment for specifications describing high-quality deliverables.
+Data is taken from the following movie databases: IMDB, TheMovieDB.org, TN. Movies are identified by unique keys. Data about each movie can include information such as: release date, budget, gross, ratings, and other data that may help investigate this problem. 
 
 ### Key Points
 
@@ -47,13 +23,9 @@ Review the "Project Submission & Review" page in the "Milestones Instructions" t
 
 * **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
 
-## Getting Started
+### Methods
 
-Please start by reviewing this assignment, the rubric at the bottom of it, and the "Project Submission & Review" page. If you have any questions, please ask your instructor ASAP.
-
-Next, we recommend you check out [the Phase 1 Project Templates and Examples repo](https://github.com/learn-co-curriculum/dsc-project-template) and use the MVP template for your project.
-
-Alternatively, you can fork [the Phase 1 Project Repository](https://github.com/learn-co-curriculum/dsc-phase-1-project), clone it locally, and work in the `student.ipynb` file. Make sure to also add and commit a PDF of your presentation to your repository with a file name of `presentation.pdf`.
+This project uses descriptive analysis and visualization through Python and associated libraries such as Pandas and Seaborn. Time-series, bar, and regression plots are all utilized to help decide what movies to create. 
 
 ## Project Submission and Review
 

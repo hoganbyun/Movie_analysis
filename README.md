@@ -25,7 +25,13 @@ Data is taken from the following movie databases: IMDB, TheMovieDB.org, TN. Movi
 
 ### Methods
 
-This project uses descriptive analysis and visualization through Python and associated libraries such as Pandas and Seaborn. Time-series, bar, and regression plots are all utilized to help decide what movies to create. 
+This project uses descriptive analysis and visualization through Python and associated libraries such as Pandas and Seaborn. Time-series, bar, and regression plots are all utilized to help decide what movies to create. In particular, analysis was done on profit and ROI data, genre-based data, budgeting data, and month-by-month data. 
+
+### Results
+Firstly, as a data scientist, I aim to provide recommendations, but the decisions and choices are ultimately up to the client. Here, I provided two tracks that Microsoft can take, depending on what their goal is for a specific movie: maximizing profit or maximizing ROI. 
+
+![Goals_slide.png](./Presentation_Visualizations/Goals_slide.png)
+
 
 ## Project Submission and Review
 

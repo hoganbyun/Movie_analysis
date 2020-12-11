@@ -15,14 +15,6 @@ Microsoft sees all the big companies creating original video content and they wa
 
 Data is taken from the following movie databases: IMDB, TheMovieDB.org, TN. Movies are identified by unique keys. Data about each movie can include information such as: release date, budget, gross, ratings, and other data that may help investigate this problem. 
 
-### Key Points
-
-* **Your analysis should yield three concrete business recommendations.** The ultimate purpose of exploratory analysis is not just to learn about the data, but to help an organization perform better. Explicitly relate your findings to business needs by recommending actions that you think the business (Microsoft) should take.
-
-* **Communicating about your work well is extremely important.** Your ability to provide value to an organization - or to land a job there - is directly reliant on your ability to communicate with them about what you have done and why it is valuable. Create a storyline your audience (the head of Microsoft's new movie studio) can follow by walking them through the steps of your process, highlighting the most important points and skipping over the rest.
-
-* **Use plenty of visualizations.** Visualizations are invaluable for exploring your data and making your findings accessible to a non-technical audience. Spotlight visuals in your presentation, but only ones that relate directly to your recommendations. Simple visuals are usually best (e.g. bar charts and line graphs), and don't forget to format them well (e.g. labels, titles).
-
 ### Methods
 
 This project uses descriptive analysis and visualization through Python and associated libraries such as Pandas and Seaborn. Time-series, bar, and regression plots are all utilized to help decide what movies to create. In particular, analysis was done on profit and ROI data, genre-based data, budgeting data, and month-by-month data. 

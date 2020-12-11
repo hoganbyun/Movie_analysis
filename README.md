@@ -28,4 +28,4 @@ Firstly, as a data scientist, I aim to provide recommendations, but the decision
 
 See the full analysis in the [Jupyter Notebook](./Movie_analysis_code.ipynb) or review this [presentation](./Microsoft_Movie_Analysis_Presentation.pdf).
 
-For additional info, contact Alison Peebles Madigan at [hoganbyun@gmail.com](mailto:hoganbyun@gmail.com)
+For additional info, contact Hogan Byun at [hoganbyun@gmail.com](mailto:hoganbyun@gmail.com)

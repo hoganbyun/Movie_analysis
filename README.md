@@ -110,3 +110,13 @@ On top of the analysis done so far, there are a few areas that I would like to e
 See the full analysis in the [Jupyter Notebook](./Movie_analysis_code.ipynb) or review this [presentation](./Microsoft_Movie_Analysis_Presentation.pdf).
 
 For additional info, contact Hogan Byun at [hoganbyun@gmail.com](mailto:hoganbyun@gmail.com)
+
+## Repository Structure
+
+```
+├── Presentation_Visualizations
+├── zippedData
+├── README.md
+├── Microsoft_Movie_Analysis_Presentation.pdf
+└── Movie_analysis_code.ipynb
+```

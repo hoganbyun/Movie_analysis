@@ -32,11 +32,8 @@ Firstly, as a data scientist, I aim to provide recommendations, but the decision
 
 ![Goals_slide.png](./Presentation_Visualizations/Goals_slide.png)
 
+## For More Information
 
-## Project Submission and Review
+See the full analysis in the [Jupyter Notebook](./Movie_analysis_code.ipynb) or review this [presentation](./Microsoft_Movie_Analysis_Presentation.pdf).
 
-Review the "Project Submission & Review" page in the "Milestones Instructions" topic to learn how to submit your project and how it will be reviewed. Your project must pass review for you to progress to the next Phase.
-
-## Summary
-
-This project will give you a valuable opportunity to develop your data science skills using real-world data. The end-of-phase projects are a critical part of the program because they give you a chance to bring together all the skills you've learned, apply them to realistic projects for a business stakeholder, practice communication skills, and get feedback to help you improve. You've got this!
+For additional info, contact Alison Peebles Madigan at [hoganbyun@gmail.com](mailto:hoganbyun@gmail.com)
